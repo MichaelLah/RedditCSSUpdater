@@ -2,10 +2,10 @@ import praw
 import threading
 
 # Configuration start
-username = 'Timbo_KZ' # Your reddit username
-password = 'notmyrealpassword' # Your reddit password
-subredditName = 'NarcissusCSS' # Suberddit name (you must be a moderator)
-stylesheetPath = 'D:/NarcissusCSS/css/stylesheet.css' # Path to your stylesheet
+username = 'Mkrah' # Your reddit username
+password = '8996344' # Your reddit password
+subredditName = 'MyTestPostSub' # Suberddit name (you must be a moderator)
+stylesheetPath = './style.css' # Path to your stylesheet
 clientID = 'ClientID' # Your app's ID
 clientSecret = 'ClientSecret' # You app's secret
 clientCallback = 'http://127.0.0.1:65010/authorize_callback'
